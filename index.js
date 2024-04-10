@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to","Eid Mubarak 🌙"];
+const statusMessages = ["🛍️🔖25% OFF!!🛍️🔖","Eid Mubarak 🌙"];
 
 
 let currentIndex = 0;
