@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⌨️ Coded By Everend__","📩 Order Today!! ","💀 Mosh is a fraud"];
+const statusMessages = ["El kounva 🚬"];
 
 
 let currentIndex = 0;
